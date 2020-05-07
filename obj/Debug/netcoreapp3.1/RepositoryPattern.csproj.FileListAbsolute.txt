@@ -1,0 +1,13 @@
+A:\RepositoryPattern\bin\Debug\netcoreapp3.1\RepositoryPattern.exe
+A:\RepositoryPattern\bin\Debug\netcoreapp3.1\RepositoryPattern.deps.json
+A:\RepositoryPattern\bin\Debug\netcoreapp3.1\RepositoryPattern.runtimeconfig.json
+A:\RepositoryPattern\bin\Debug\netcoreapp3.1\RepositoryPattern.runtimeconfig.dev.json
+A:\RepositoryPattern\bin\Debug\netcoreapp3.1\RepositoryPattern.dll
+A:\RepositoryPattern\bin\Debug\netcoreapp3.1\RepositoryPattern.pdb
+A:\RepositoryPattern\obj\Debug\netcoreapp3.1\RepositoryPattern.csprojAssemblyReference.cache
+A:\RepositoryPattern\obj\Debug\netcoreapp3.1\RepositoryPattern.csproj.CoreCompileInputs.cache
+A:\RepositoryPattern\obj\Debug\netcoreapp3.1\RepositoryPattern.AssemblyInfoInputs.cache
+A:\RepositoryPattern\obj\Debug\netcoreapp3.1\RepositoryPattern.AssemblyInfo.cs
+A:\RepositoryPattern\obj\Debug\netcoreapp3.1\RepositoryPattern.dll
+A:\RepositoryPattern\obj\Debug\netcoreapp3.1\RepositoryPattern.pdb
+A:\RepositoryPattern\obj\Debug\netcoreapp3.1\RepositoryPattern.genruntimeconfig.cache
